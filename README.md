@@ -1,2 +1,5 @@
 # CYBERSECURITY SYSTEMS (CsS)
 Cybersecurity Systems (CsS) is a cybersecurity application studies and system security lockdown suite by MCE123. It runs on PATRICK, the Artificial Intelligence Real World 3D Operating System, to prevent cyber intrusions and cyber crimes from occurring to our base platform. This software suite aims to be a comprehensive computer security suite for the PATRICK Artificial Intelligence Real World 3D Operating System, which interacts through satellites with users in The Virtual Environment, which is similar to simulations of the real world that overlay, visually, with the real world, in real time, however only for authorized users. These systems were custom designed and developed by MCE123.
+
+If you have any feedback regarding this software, please address it to [MCE123™ Technology Development (techdevelop@mce123.com)](mailto:techdevelop@mce123.com).
+If you like this software and would like to purchase a license to educationally or personally or professionally use this software, please address it to [MCE123™ Sales Department (sales@mce123.com)](mailto:sales@mce123.com).
